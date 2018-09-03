@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+#
 # Goal: Convert file PDF to JPG
 #
 echo " "
