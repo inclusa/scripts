@@ -14,4 +14,4 @@ Cal posar a la terminal `ruby dategenerator.rb`i obtindrem
 
 Script de Bash per a convertir un PDF en una imatge JPG anomenat `grafic.sh`.
 
-![[images/script_grafic.gif]]
+![[https://github.com/inclusa/scripts/blob/master/images/script_grafic.gif]]
