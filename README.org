@@ -1,17 +1,18 @@
 # scripts
-Scrips en diversos llenguatges
 
-Script en Ruby `dategenerator.rb`.
+Scripts en diversos llenguatges
+
+## 1. Script en Ruby `dategenerator.rb`.
 
 Cal posar a la terminal `ruby dategenerator.rb`i obtindrem
 
-```
+#+BEGIN_EXPORT bash
 2019-01-01
 2019-01-02
 2019-01-03
 ...
-```
+#+END_EXPORT
 
-Script de Bash per a convertir un PDF en una imatge JPG anomenat `grafic.sh`.
+## 2. Script de Bash per a convertir un PDF en una imatge JPG anomenat `grafic.sh`.
 
 ![[images/script_grafic.gif]]
